@@ -1,0 +1,37 @@
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=62 time=941 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=62 time=11.4 ms
+64 bytes from 192.168.1.2: icmp_seq=3 ttl=62 time=10.2 ms
+64 bytes from 192.168.1.2: icmp_seq=4 ttl=62 time=8.18 ms
+64 bytes from 192.168.1.2: icmp_seq=5 ttl=62 time=8.25 ms
+64 bytes from 192.168.1.2: icmp_seq=6 ttl=62 time=9.07 ms
+64 bytes from 192.168.1.2: icmp_seq=7 ttl=62 time=9.25 ms
+64 bytes from 192.168.1.2: icmp_seq=8 ttl=62 time=9.11 ms
+64 bytes from 192.168.1.2: icmp_seq=9 ttl=62 time=9.32 ms
+64 bytes from 192.168.1.2: icmp_seq=10 ttl=62 time=9.40 ms
+64 bytes from 192.168.1.2: icmp_seq=11 ttl=62 time=8.97 ms
+64 bytes from 192.168.1.2: icmp_seq=12 ttl=62 time=8.55 ms
+64 bytes from 192.168.1.2: icmp_seq=13 ttl=62 time=8.25 ms
+64 bytes from 192.168.1.2: icmp_seq=14 ttl=62 time=8.20 ms
+64 bytes from 192.168.1.2: icmp_seq=15 ttl=62 time=9.02 ms
+64 bytes from 192.168.1.2: icmp_seq=16 ttl=62 time=8.80 ms
+64 bytes from 192.168.1.2: icmp_seq=17 ttl=62 time=8.83 ms
+64 bytes from 192.168.1.2: icmp_seq=18 ttl=62 time=9.44 ms
+64 bytes from 192.168.1.2: icmp_seq=19 ttl=62 time=9.25 ms
+64 bytes from 192.168.1.2: icmp_seq=20 ttl=62 time=9.12 ms
+64 bytes from 192.168.1.2: icmp_seq=21 ttl=62 time=9.35 ms
+64 bytes from 192.168.1.2: icmp_seq=22 ttl=62 time=9.31 ms
+64 bytes from 192.168.1.2: icmp_seq=23 ttl=62 time=9.09 ms
+64 bytes from 192.168.1.2: icmp_seq=24 ttl=62 time=9.01 ms
+64 bytes from 192.168.1.2: icmp_seq=25 ttl=62 time=8.70 ms
+64 bytes from 192.168.1.2: icmp_seq=26 ttl=62 time=8.12 ms
+64 bytes from 192.168.1.2: icmp_seq=27 ttl=62 time=8.14 ms
+64 bytes from 192.168.1.2: icmp_seq=28 ttl=62 time=9.10 ms
+64 bytes from 192.168.1.2: icmp_seq=29 ttl=62 time=10.3 ms
+64 bytes from 192.168.1.2: icmp_seq=30 ttl=62 time=9.92 ms
+64 bytes from 192.168.1.2: icmp_seq=31 ttl=62 time=9.47 ms
+64 bytes from 192.168.1.2: icmp_seq=32 ttl=62 time=9.44 ms
+
+--- 192.168.1.2 ping statistics ---
+32 packets transmitted, 32 received, 0% packet loss, time 31039ms
+rtt min/avg/max/mdev = 8.122/38.251/941.180/162.172 ms
